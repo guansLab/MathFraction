@@ -33,7 +33,9 @@ Constructs a complex fraction with a single-digit numerator (a) and a two-digit 
 Creates a complex fraction where both the numerator and the denominator have two digits (ab/ab) using the MNIST digits.
 
 **6.**  **5\_invert\_colors\_of\_image\_if\_needed.py**
+
 Invert the original color of fraction images to white and black to get more similarity to the actual paper.
+
 ## Dependencies
 
 - Python 3.x
